@@ -13,7 +13,7 @@
  
 I enjoy building, configuring, and experimenting with computer systems and networks.  
 
-Most of my work now lives in experiments and infrastructures. 
+Most of my work lives in experiments and infrastructures. 
 The goal is understand systems deeply and make them predictable.  
 
 Here I will share my “creativity”.
