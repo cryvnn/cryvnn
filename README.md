@@ -1,14 +1,20 @@
-<h2>About.me</h2>
+<div align='center'>
 
-Hi, I'm an 18 year-old student and tech enthusiast.
+  <h2> About.me </h2>
+
+  Hi, I'm an 18 year-old student and tech enthusiast.
+
+  <img src='https://i.pinimg.com/control1/1200x/38/6b/0f/386b0f2411fbed04ccc775d8f8498f42.jpg' width='350'>  
+  
+</div>
+
 
 ## Focus
+ 
+I enjoy building, configuring, and experimenting with computer systems and networks.  
 
-On a path toward DevOps & Software engineering.  
-I enjoy building, configuring, and experimenting with computer systems and networks, both virtual and physical.  
-
-Most of my work now lives in experiments, dotfiles, and infrastructure setups.  
-The goal is simple: understand systems deeply and make them predictable.  
+Most of my work now lives in experiments and infrastructures. 
+The goal is understand systems deeply and make them predictable.  
 
 Here I will share my “creativity”.
 
